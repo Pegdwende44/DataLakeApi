@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pegdwende
+Build-Jdk: 11.0.6
+Implementation-Title: DataLakeApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.datalake.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/DataLakeApi
+Created-By: Maven Integration for Eclipse
+
